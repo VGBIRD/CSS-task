@@ -1,0 +1,18 @@
+.box
+{
+	margin:auto;
+	position: absolute;
+	left: 0;
+	right: 0;
+	width:630px;
+	background: none
+}
+div
+{
+	background: peru;
+	border-radius: 10px;
+	margin: 5px;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
