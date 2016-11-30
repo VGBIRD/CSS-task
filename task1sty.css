@@ -4,15 +4,15 @@
 	position: absolute;
 	left: 0;
 	right: 0;
-	width:630px;
+	width: 63vw;;
 	background: none
 }
 div
 {
 	background: peru;
-	border-radius: 10px;
-	margin: 5px;
-	width: 200px;
-	height: 200px;
+	border-radius: 1vw;
+	margin: 0.5vw;
+	width: 20vw;
+	height: 20vw;
 	float: left;
 }
